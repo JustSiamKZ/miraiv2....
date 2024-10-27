@@ -10,11 +10,11 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "Lexa",
+    "PREFIX": "~",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "61556227419696",
+        "61556227419696"
     ],
     "DATABASE": {
         "sqlite": {
